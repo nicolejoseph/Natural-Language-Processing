@@ -1,0 +1,100 @@
+Adj --> quick
+Adj --> short
+Adj --> cheap
+PP --> Preposition NP
+Nominal --> Nominal Noun
+Nominal --> Nominal PP
+Nominal --> AdjP Nominal
+Nominal --> book
+Nominal --> books
+Nominal --> flight
+Nominal --> flights
+Nominal --> meal
+Nominal --> money
+Nominal --> 0
+Nominal --> 1
+Nominal --> 2
+Nominal --> 3
+Nominal --> 4
+Nominal --> 5
+Nominal --> 6
+Nominal --> 7
+Nominal --> 8
+Nominal --> 9
+NP --> Det Nominal
+NP --> i
+NP --> she
+NP --> me
+NP --> it
+NP --> he
+NP --> they
+NP --> houston
+NP --> nwa
+AdjP --> AdjP Adj
+AdjP --> quick
+AdjP --> short
+AdjP --> cheap
+Det --> that
+Det --> this
+Det --> these
+Det --> the
+Det --> a
+Det --> an
+_Dummy3 --> Aux NP
+Proper-Noun --> houston
+Proper-Noun --> nwa
+Verb --> book
+Verb --> include
+Verb --> prefer
+Verb --> fly
+VP --> Verb NP
+VP --> Verb PP
+VP --> VP PP
+VP --> book
+VP --> include
+VP --> prefer
+VP --> fly
+VP --> _Dummy2 PP
+_Dummy5 --> Verb NP
+_Dummy2 --> Verb NP
+Digit --> 0
+Digit --> 1
+Digit --> 2
+Digit --> 3
+Digit --> 4
+Digit --> 5
+Digit --> 6
+Digit --> 7
+Digit --> 8
+Digit --> 9
+Aux --> does
+_Dummy4 --> S _Dummy1
+_Dummy1 --> and
+Pronoun --> i
+Pronoun --> she
+Pronoun --> me
+Pronoun --> it
+Pronoun --> he
+Pronoun --> they
+Preposition --> from
+Preposition --> to
+Preposition --> on
+Preposition --> near
+Preposition --> through
+S --> NP VP
+S --> Verb NP
+S --> Verb PP
+S --> VP PP
+S --> book
+S --> include
+S --> prefer
+S --> fly
+S --> _Dummy3 VP
+S --> _Dummy4 S
+S --> _Dummy5 PP
+Noun --> book
+Noun --> books
+Noun --> flight
+Noun --> flights
+Noun --> meal
+Noun --> money
