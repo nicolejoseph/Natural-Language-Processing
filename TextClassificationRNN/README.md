@@ -1,6 +1,6 @@
 # Text Classification of Tweets Using RNN
 The objective of this program is to implement and train a neural net using Python, TensorFlow, and Keras to complete the NLP task of text classification 
-of tweets as disaster (1) or no disaster (0). The dataset used was the NLP Disaster Tweets dataset which contains a total of 7,613 tweets. Included is my final project report, 
+of tweets as disaster (1) or no disaster (0). The dataset used was the NLP Disaster Tweets dataset which contains a total of 7,613 tweets. Included is my final project [report,](https://drive.google.com/file/d/1l43-mgEQY-czvtJp0ceZvS9SmN76MzGJ/view?usp=sharing) and [presentation](https://docs.google.com/presentation/d/1GLGDSeT0rWkfNv4iF0sBEMNsaenaF2de/edit?usp=sharing&ouid=102559089527426954865&rtpof=true&sd=true)
 for a more in-depth look at my final results and how this project was developed!
 ## Preprocessing
 First, the text data was cleaned and preprocessed. URLs were removed using regular expressions. Punctuation was removed, 
